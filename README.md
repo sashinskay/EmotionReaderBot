@@ -1,7 +1,7 @@
 # Emotion Analysis Telegram Bot
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
-[![Aiogram](https://img.shields.io/badge/Aiogram-3.x-green.svg)](https://docs.aiogram.dev/)
+[![Aiogram](https://img.shields.io/badge/Aiogram-2.x-green.svg)](https://docs.aiogram.dev/)
 
 Бот для анализа эмоциональной окраски текста с использованием нейросетевой модели.
 
