@@ -21,5 +21,5 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourname/EmotionAnalysisBot.git
-cd EmotionAnalysisBot
+git clone https://github.com/sashinskay/EmotionReaderBot.git
+cd EmotionReaderBot/EmotionReaderBot
