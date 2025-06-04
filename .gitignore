@@ -1,0 +1,6 @@
+# .gitignore для EmotionReaderBot
+.env
+.venv/
+__pycache__/
+*.log
+.DS_Store
